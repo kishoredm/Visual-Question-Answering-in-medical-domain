@@ -11,6 +11,3 @@ The "A_16_mVQA_code_files" folder consists 5 code files:
 
 
 --> Another code file named "A_16_mVQA_tensor.ipynb" is for REFERENCE code file which includes all the above model executed in a single file but using TENSORFLOW library.
-
-The dataset required for the above execution of all codes is given inside the folder "A_16_mQVA_Dataset".
---> It Consists of a .csv file and a folder consisting of radiology images of brain, chest and abdomen.
